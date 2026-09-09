@@ -8,7 +8,9 @@
 # 🏗️ Irakurle
 Strategy Case Ontology treats strategy in a reinforcement learning exercise with explicit rules.
 </div>
- ---
+
+---
+
 ## Irakurle Overview
 
 It treats strategy in a reinforcement learning exercise with explicit rules, scoring mechanisms, and winning conditions. It allows junior consultants to measure progress, iterate improvements that compound organizational knowledge over time.
